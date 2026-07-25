@@ -33,7 +33,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Sigma-Spy/ref
       Parser output example
 		</td>
     <td width="58%">
-			<img src="assets/SigmaSpy-Beta.png" alt="Sigma Spy Beta">
+			<img src="assets/SigmaSpy-Beta" alt="Sigma Spy Beta">
       UI preview
 		</td>
 	</tr>
